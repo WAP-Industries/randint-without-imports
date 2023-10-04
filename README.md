@@ -15,4 +15,5 @@ Using first principles 🤓, implement a function which outputs a random number 
 
 ---
 
-See also chen e's [less niggerlicious solution](https://github.com/56cy/Randint)
+### See also 
+chen e's [less niggerlicious solution](https://github.com/56cy/Randint)
